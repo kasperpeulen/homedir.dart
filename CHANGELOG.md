@@ -1,6 +1,11 @@
 # Change Log for homedir
 Get home directory on any platform
 
+## [0.0.4](http://github.com/kasperpeulen/homedir.dart/compare/0.0.3...0.0.4) - 2015-12-11
+
+### Docs
+* added usages example in README.md [501b215](https://github.com/kasperpeulen/homedir.dart/commit/501b2158adaf101a63ba3dd7777abe15c25833e3)
+
 ## [0.0.3](http://github.com/kasperpeulen/homedir.dart/compare/0.0.2...0.0.3) - 2015-12-11
 
 ### Docs
