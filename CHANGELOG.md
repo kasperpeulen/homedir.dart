@@ -1,6 +1,11 @@
 # Change Log for homedir
 Get home directory on any platform
 
+## [0.0.3](http://github.com/kasperpeulen/homedir.dart/compare/0.0.2...0.0.3) - 2015-12-11
+
+### Docs
+* added MIT LICENSE file [4b0116f](https://github.com/kasperpeulen/homedir.dart/commit/4b0116fff76d779805b4d8e37a4a1a99114aa7c9)
+
 ## [0.0.2](http://github.com/kasperpeulen/homedir.dart/compare/0.0.1...0.0.2) - 2015-12-11
 
 ### Chore
