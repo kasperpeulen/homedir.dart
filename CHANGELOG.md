@@ -3,6 +3,9 @@ Get home directory on any platform
 
 ## [Unreleased](http://github.com/kasperpeulen/homedir.dart/compare/0.0.4...HEAD)
 
+### Chore
+* trying to setup coveralls support [66c045e](https://github.com/kasperpeulen/homedir.dart/commit/66c045ec0a47c319c7b12a87f228e6302432335d)
+
 ### Docs
 * improve README.md [e7bf532](https://github.com/kasperpeulen/homedir.dart/commit/e7bf532fb7cc8845f1d14b0633ac65029ae809de)
 * make the travis link right [273d6b5](https://github.com/kasperpeulen/homedir.dart/commit/273d6b5c61268e56e68beaec14e4d0004631bfb3)
