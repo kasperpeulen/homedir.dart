@@ -1,0 +1,10 @@
+name: homedir
+description:
+author: Kasper Peulen <kasperpeulen@gmail.com>
+homepage: https://github.com/kasperpeulen/homedir.dart
+version: 0.0.0
+environment:
+  sdk: ^1.13.0
+dev_dependencies:
+  test: ^0.12.6+1
+  grinder: ^0.8.0+1
